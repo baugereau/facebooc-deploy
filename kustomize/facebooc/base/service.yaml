@@ -5,6 +5,7 @@ metadata:
   labels:
     app: facebooc
   name: facebooc
+  namespace: facebooc
 spec:
   ports:
   - name: "16000"
